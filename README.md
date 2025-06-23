@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @riggsa21
-- 👀 I’m interested in environmental GIS analysis
-- 🌱 I’m currently learning Remote Sensing
-- 💞️ I’m looking to collaborate on nutrient delivery and flood risk from urban growth
+- 👀 Environmental GIS Analyst
 - 📫 How to reach me: ariggs3780@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I volunteer at an estuarium, guiding and teaching visitors about the importance of estuarian systems.
